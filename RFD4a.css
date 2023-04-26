@@ -1,0 +1,173 @@
+.logo {
+    border: 1px solid;
+    padding: 43px;
+    width: 1500px;
+    background-color: black;
+}
+.food {
+    border: 1px solid;
+    width: 1500px;
+    padding: 43px;
+    margin-top: 40px;
+    background-color: darkslategray;
+}
+#ul {
+    list-style-type: none;
+    display: flex;
+    
+}
+#vf {
+    text-decoration: none;
+}
+.row-food {
+    display: flex;
+    list-style-type: none;
+}
+.col-food {
+    display: flex;
+}
+#ft:hover {
+    color: deeppink;
+    
+}
+#ft {
+    text-decoration-line: none;
+}
+#home {
+    text-decoration-line: none;
+}
+#home:hover {
+    color:  deeppink;;
+}
+.form-control {
+    border: 1px solid;
+    width: auto;
+    border-radius: 12px;
+}
+#btn:hover {
+    color: black;
+    
+} 
+.form-control {
+    border: 1px solid;
+    width: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin: 20px;
+    display: flex;
+    border-radius: 12px;
+}
+.form-control::after {
+    color: black;
+}
+#btn:hover {
+    color: black;
+    
+} 
+.form {
+   margin-left: 20px;
+   padding: 30px;
+}
+#btn {
+    border: 1px solid;
+    background-color: darkgrey;
+    text-decoration-line: none;
+    padding: 10px;
+    border-radius: 12px;
+}
+#ft {
+    text-decoration-line: none;
+}
+#submit {
+    
+    text-decoration-line: none;
+}
+#submit:hover {
+    color: black;
+}
+#home {
+    text-decoration-line: none;
+}
+#home:hover {
+    color:  deeppink;
+}
+#gmail:hover {
+    color:  deeppink
+} 
+.trader {
+    padding-left: 100px;
+    width: 700px;
+    text-align: justify;
+    margin-top: 30px;
+} 
+.pts {
+    padding-left: 100px;
+    width: 700px;
+    text-align: justify;
+    margin-top: 30px;
+}
+.acct {
+    padding-left: 100px;
+    width: 700px;
+    text-align: justify;
+    margin-top: 30px;
+}
+.form-fill {
+    padding: 30px;
+}
+.goods {
+    padding: 30px;
+}
+#note {
+    padding-left: 100px;
+    width: 700px;
+    text-align: justify;
+    margin-top: 30px;
+}
+.text {
+    width: 300px;
+    height: 300px;
+}
+#sel {
+    display: inline-block;
+}
+
+.acct {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#text {
+    margin: 40px;
+    padding: 17px;
+    width: 900px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+#text:hover {
+    color: black;
+}
+.order {
+    border: 1px solid black;
+    border-radius: 12px;
+}
+body {
+    background-color:  lightcoral;
+    font-size: larger;
+}
+#mg {
+    padding-left: 400px;
+}
+#df {
+    text-decoration: none;
+}
+@media screen and (min-width: 768px) {
+    .trader {
+        width: 1200px;
+    }
+    .pts {
+        width: 1200px;
+    }
+    #note {
+        width: 1200px;
+    }
+}

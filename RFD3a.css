@@ -1,0 +1,74 @@
+.logo {
+    border: 1px solid;
+    padding: 43px;
+    width: 1500px;
+    background-color: black;
+}
+.food {
+    border: 1px solid;
+    width: 1500px;
+    padding: 43px;
+    margin-top: 40px;
+    background-color: darkslategray;
+}
+#ul {
+    list-style-type: none;
+    display: flex;
+}
+.row-food {
+    display: flex;
+    list-style-type: none;
+    width: auto;
+}
+.col-food {
+    margin-left: 30px;
+    display: flex;
+}
+#ft:hover {
+    color: deeppink;
+    
+}
+#ft {
+    text-decoration-line: none;
+}
+#submit {
+    text-decoration-line: none;
+}
+#home {
+    text-decoration-line: none;
+}
+#home:hover {
+    color:  deeppink;;
+}
+.section {
+    margin-left: 30px;
+    padding-top: 30px;
+    margin-top: 35px;
+    width: 700px;
+    text-align: justify;
+    font-size: larger;
+}
+#ff {
+    text-decoration-line: none; 
+}
+#steps {
+    display: flex;
+    margin-left:  75px;
+    margin-top: 30px;
+    padding-right: 20px;
+}
+.follow {
+    display: flex;
+    width: 1300px;
+}
+body {
+    background-color:  lightcoral;
+}
+#mg {
+    padding-left: 400px;
+}
+@media screen and (min-width: 768px) {
+    .section {
+        width: 1200px;
+    }
+}
