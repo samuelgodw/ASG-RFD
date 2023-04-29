@@ -19,7 +19,7 @@
 body {
     background-color: black;
     min-height: 100vh;
-    min-width: 100vw;
+    min-width: 400vw;
 }
 .row-1 {
     width: 320px;
