@@ -4,6 +4,13 @@
     width: 1500px;
     background-color: black;
 }
+.ud {
+    border: 1px solid;
+    padding: 43px;
+    width: 1500px;
+    background-color: black;
+    margin-top: 50px;
+}
 .food {
     border: 1px solid;
     width: 1500px;
